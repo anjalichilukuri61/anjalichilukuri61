@@ -1,57 +1,58 @@
 <div align="center">
 
-<img src="./assets/anime-banner.png" alt="Anjali Chilukuri - Full Stack Developer" width="100%"/>
+# ANJALI CHILUKURI
 
-<br/>
+### Full Stack Developer · Machine Learning Enthusiast
 
-# 👋 Hi, I'm Anjali Chilukuri
-
-### 💻 Full Stack Developer | 🤖 Machine Learning Enthusiast
-
-*Building practical applications, learning continuously, and turning ideas into code.*
+`BUILD` · `LEARN` · `SOLVE` · `INNOVATE`
 
 </div>
 
 ---
 
-## 🌸 About Me
+## About Me
 
-- 🎓 Computer Science Engineering Student
-- 💻 Interested in **Full Stack Development**
-- 🤖 Exploring **Machine Learning**
-- 🧩 Passionate about **problem solving**
-- 🌱 Continuously learning new technologies
-- 🚀 Interested in building real-world applications
+I'm a Computer Science Engineering student interested in building
+practical software and exploring Machine Learning.
+
+I enjoy turning ideas into clean, functional applications while
+continuously improving my problem-solving and development skills.
+
+- Full Stack Development
+- Backend & REST API Development
+- Database Management
+- Machine Learning
+- Problem Solving
 
 ---
 
-## ⚡ Tech Stack
+## Tech Stack
 
-### 👩‍💻 Programming Languages
+### Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=java,python,javascript,c" />
 </p>
 
-### 🌐 Frontend Development
+### Frontend
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,react" />
 </p>
 
-### ⚙️ Backend Development
+### Backend
 
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-### 🗄️ Databases
+### Databases
 
 <p>
 <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
-### 🛠️ Tools & Technologies
+### Development Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
@@ -59,28 +60,53 @@
 
 ---
 
-## 🧠 Core Concepts
+## Core Concepts
+
+| Area | Focus |
+|---|---|
+| Programming | Java · Python · JavaScript · C |
+| Web Development | HTML · CSS · React |
+| Backend | Node.js · Express.js · REST APIs |
+| Databases | MongoDB · MySQL |
+| Fundamentals | OOP · DSA · DBMS |
+| Development | Git · GitHub · API Testing |
+
+---
+
+## GitHub
 
 <p align="center">
 
-| 💡 Concept | 💡 Concept | 💡 Concept |
-|:---:|:---:|:---:|
-| Object-Oriented Programming | Data Structures & Algorithms | DBMS |
-| REST APIs | Backend Development | Problem Solving |
+<img src="https://github-readme-stats.vercel.app/api?username=anjalichilukuri61&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjalichilukuri61&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 
 </p>
 
 ---
 
-## 🌱 Currently Learning
+## Connect
 
-```text
-Full Stack Development
-        ↓
-REST APIs & Backend Development
-        ↓
-MongoDB & Database Design
-        ↓
-Machine Learning
-        ↓
-Building Real-World Projects
+<p align="center">
+
+<a href="https://github.com/anjalichilukuri61">
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+</a>
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+`コードを書く · Build with purpose`
+
+</div>
